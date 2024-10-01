@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabaranjan&label=Profile%20views&color=0e75b6&style=flat" alt="nabaranjan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabaranjan" alt="nabaranjan" /></a> </p>
-
 - 🌱 I’m currently learning **AI/ML/Mern Stack**
 
 - 📝 I regularly write articles on [https://nabaranjan1.hashnode.dev/](https://nabaranjan1.hashnode.dev/)
