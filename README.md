@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning **AI/ML/Mern Stack**
 
 - 📝 I regularly write articles on [https://nabaranjan1.hashnode.dev/](https://nabaranjan1.hashnode.dev/)
-- Portfolio : https://nabaranjan-ykr8men.gamma.site/
+  
+-  Portfolio : https://nabaranjan-ykr8men.gamma.site/
 
 - 💬 Ask me about **Python,Machine Learning**
 
